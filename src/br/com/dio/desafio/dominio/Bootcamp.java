@@ -11,6 +11,26 @@ public class Bootcamp {
     private Set<Dev> devsInscritos = new HashSet<>();
     private Set<Conteudo> conteudos = new LinkedHashSet<>();
 
+    public Bootcamp(String nome, String descricao) {
+        this.nome = nome;
+        this.descricao = descricao;
+    }
+
+    public Bootcamp() {}
+    
+
+    public void inscreverDev(Dev dev) {
+        if (devsInscritos.contains(dev)) {
+            System.out.println("Dev já inscrito");
+            return;
+        } 
+        this.devsInscritos.add(dev);
+    }
+
+    public void adicionarConteudos(Set<Conteudo> conteudos) {
+        this.conteudos.addAll(conteudos);
+    }
+
     public String getNome() {
         return nome;
     }
@@ -43,6 +63,7 @@ public class Bootcamp {
         this.devsInscritos = devsInscritos;
     }
 
+
     public Set<Conteudo> getConteudos() {
         return conteudos;
     }
@@ -50,6 +71,7 @@ public class Bootcamp {
     public void setConteudos(Set<Conteudo> conteudos) {
         this.conteudos = conteudos;
     }
+
 
     @Override
     public boolean equals(Object o) {
