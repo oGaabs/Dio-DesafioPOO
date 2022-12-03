@@ -19,7 +19,7 @@ Desafio de Projeto sobre POO Programação orientada a objetos, exigido na Poten
 
 ## 🖋️ Contribuindo
 
-Fique à vontade para enviar sugestões, dicas ou até mesmo reconstruir o código, mas mastenha a autoria do projeto e não utiliza-o de maneira indevida ou de forma a prejudicar o projeto ou marca.
+Fique à vontade para enviar sugestões, dicas ou até mesmo reconstruir o código, mas mastenha a autoria do projeto e não utilize-o de maneira indevida ou de forma a prejudicar o projeto ou marca.
 
 #### 🌐 Networks Gabriel:
 
