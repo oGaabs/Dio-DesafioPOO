@@ -15,7 +15,7 @@
 ___
 
 ## 💻 Sobre
-Desafio de Projeto sobre POO Programação orientada a objetos, exigido na Potencia Tech Java Potencia Tech Java Beginners, bootcamp da DioiFood. 
+Desafio de Projeto sobre POO Programação orientada a objetos, exigido na Potencia Tech Java Potencia Tech Java Beginners, bootcamp da Dio-iFood. 
 
 ## 🖋️ Contribuindo
 
